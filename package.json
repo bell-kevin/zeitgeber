@@ -1,0 +1,31 @@
+{
+  "name": "zeitgeber",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Circadian schedule planner \u2014 beat jet lag and shift your sleep with light, not luck. Fully client-side, no accounts, no servers.",
+  "license": "AGPL-3.0-or-later",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bell-kevin/zeitgeber"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "selftest": "tsx scripts/selftest.ts",
+    "smoketest": "tsx scripts/rendertest.tsx"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tsx": "^4.19.2",
+    "typescript": "~5.6.3",
+    "vite": "^5.4.11"
+  }
+}
