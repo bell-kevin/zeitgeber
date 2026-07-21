@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# zeitgeber\*
+# zeitgeber
 
 https://sleeplight.org
 
