@@ -2,6 +2,8 @@
 
 # zeitgeber\*
 
+https://sleeplight.org
+
 *retune your body clock with light, not luck*
 
 **zeitgeber** is a free, open-source circadian schedule planner. Tell it where — or when — you need to be, and it builds a day-by-day protocol: when to seek bright light, when to hide from it, when your sleep window moves, and when to stop drinking coffee. It handles jet lag in either direction, and it also handles the no-airplane version of the same problem: becoming a 6 a.m. person before a new job starts.
